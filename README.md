@@ -1,15 +1,9 @@
-# typescript
+# @webpowered/typescript
 
-To install dependencies:
+Configuration for TypeScript used in WebPowered projects.
 
-```bash
-bun install
-```
-
-To run:
+## Installation
 
 ```bash
-bun run index.ts
+bun install -D @webpowered/typescript
 ```
-
-This project was created using `bun init` in bun v1.1.41. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
