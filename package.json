@@ -1,0 +1,21 @@
+{
+  "bugs": {
+    "url": "https://github.com/webpowered/typescript/issues"
+  },
+  "description": "Configuration for TypeScript",
+  "exports": {
+    ".": "./tsconfig.json"
+  },
+  "homepage": "https://github.com/webpowered/typescript",
+  "module": "index.ts",
+  "name": "@webpowered/typescript",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpowered/typescript.git"
+  },
+  "type": "module",
+  "version": "0.0.0"
+}

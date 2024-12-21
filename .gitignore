@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# Finder (macOS) folder config
+.DS_Store
