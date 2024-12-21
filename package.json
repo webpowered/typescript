@@ -11,11 +11,13 @@
 		".": "./tsconfig.json"
 	},
 	"files": [
-    "bun.lockb",
+		"bun.lockb",
+		"LICENSE.md",
 		"README.md",
 		"tsconfig.json"
 	],
 	"homepage": "https://github.com/webpowered/typescript",
+	"license": "MIT",
 	"module": "index.ts",
 	"name": "@webpowered/typescript",
 	"publishConfig": {
